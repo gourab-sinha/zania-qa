@@ -70,7 +70,7 @@ poetry run clean
 ```
 
 ## Tech Stack
-- Python 3.11
+- Python 3.9
 - FastAPI
 - LangChain
 - OpenAI GPT Models
