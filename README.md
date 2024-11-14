@@ -7,7 +7,7 @@ A Question-Answering bot that leverages large language models to answer question
 1. Clone and install dependencies
 ```bash
 git clone <repository-url>
-cd zania-assignment
+cd zania-qa
 poetry install
 ```
 
